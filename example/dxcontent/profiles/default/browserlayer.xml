@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="example.dxcontent" 
+           interface="example.dxcontent.interfaces.IExampleDXContentLayer" />
+</layers>
